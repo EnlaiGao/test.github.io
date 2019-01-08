@@ -350,6 +350,7 @@ ul {
 }
 ol {
 	list-style-type: decimal;
+	text-align: justify;
 }
 ol ol {
 	list-style: upper-alpha;
@@ -521,7 +522,7 @@ a:hover {
 	border-top: 2px solid #bbb;
 	padding-bottom: 10px;
 	position: relative;
-	z-index: 9999;
+	z-index: 9;
 }
 #site-title {
 	margin-right: 270px;
@@ -538,6 +539,7 @@ a:hover {
 #site-title a:focus,
 #site-title a:active {
 	color: #1982d1;
+	font-size: 14px;
 }
 #site-description {
 	color: #7a7a7a;
@@ -2718,4 +2720,14 @@ p.comment-form-comment {
 
 #ie8 section.feature-image.large img {
 	width: 100%;
+}
+.title {
+	font-weight: bold;
+	font-size: 18px;
+}
+.home.blog.one-column.content #page #main #primary #content #post-1 .entry-content {
+	text-align: justify;
+}
+.home.blog.one-column.content #page #main #primary #content #post-1 .entry-content {
+	font-size: 14px;
 }
