@@ -341,7 +341,6 @@ hr {
 /* Text elements */
 p {
 	margin-bottom: 1.625em;
-	text-align: left;
 	font-family: inherit;
 }
 ul, ol {
@@ -2736,7 +2735,6 @@ p.comment-form-comment {
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content {
 	font-size: 14px;
 	font-family: inherit;
-	text-align: left;
 }
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content p img {
 	text-align: center;
