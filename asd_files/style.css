@@ -342,6 +342,7 @@ hr {
 p {
 	margin-bottom: 1.625em;
 	font-family: inherit;
+	font-size: 140%;
 }
 ul, ol {
 	margin: 0 0 1.625em 2.5em;
@@ -2733,7 +2734,7 @@ p.comment-form-comment {
 	text-align: justify;
 }
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content {
-	font-size: 14px;
+	font-size: 10.5px;
 	font-family: inherit;
 }
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content p img {
