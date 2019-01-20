@@ -342,7 +342,8 @@ hr {
 p {
 	margin-bottom: 1.625em;
 	font-family: inherit;
-	font-size: 140%;
+	text-align: center;
+	font-size: 9px;
 }
 ul, ol {
 	margin: 0 0 1.625em 2.5em;
@@ -376,11 +377,12 @@ dd {
 	margin-bottom: 1.625em;
 }
 strong {
-	font-weight: bold;
 	font-family: inherit;
+	font-weight: bold;
 }
 cite, em, i {
-	font-style: italic;
+	font-style: normal;
+	text-align: justify;
 }
 blockquote {
 	font-family: Georgia, "Bitstream Charter", serif;
@@ -494,6 +496,7 @@ a:focus,
 a:active,
 a:hover {
 	text-decoration: underline;
+	font-size: 100%;
 }
 
 /* Assistive text */
@@ -2285,6 +2288,7 @@ p.comment-form-comment {
 #site-generator a {
 	color: #555;
 	font-weight: bold;
+	font-size: 100%;
 }
 
 
@@ -2734,8 +2738,11 @@ p.comment-form-comment {
 	text-align: justify;
 }
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content {
-	font-size: 10.5px;
+	font-size: 12px;
 	font-family: inherit;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
 }
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content p img {
 	text-align: center;
