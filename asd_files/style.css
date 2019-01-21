@@ -378,7 +378,7 @@ dd {
 }
 strong {
 	font-family: inherit;
-	font-weight: bold;
+	font-weight: normal;
 }
 cite, em, i {
 	font-style: normal;
@@ -2738,7 +2738,7 @@ p.comment-form-comment {
 	text-align: justify;
 }
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content {
-	font-size: 12px;
+	font-size: 14px;
 	font-family: inherit;
 	font-weight: normal;
 	font-style: normal;
