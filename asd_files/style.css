@@ -383,6 +383,8 @@ strong {
 cite, em, i {
 	font-style: normal;
 	text-align: justify;
+	font-family: Cambria;
+	font-size: 10.5pt;
 }
 blockquote {
 	font-family: Georgia, "Bitstream Charter", serif;
@@ -496,7 +498,8 @@ a:focus,
 a:active,
 a:hover {
 	text-decoration: underline;
-	font-size: 100%;
+	font-size: 10.5%;
+	font-family: inherit;
 }
 
 /* Assistive text */
@@ -2746,7 +2749,11 @@ p.comment-form-comment {
 }
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content p img {
 	text-align: center;
+	font-size: 100pt;
 }
 img {
 	text-align: center;
+}
+.home.blog.one-column.content #page #main #primary #content #post-1 .entry-content .MsoNormal {
+	font-family: Cambria;
 }
