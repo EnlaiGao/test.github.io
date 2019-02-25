@@ -638,6 +638,8 @@ a:hover {
 	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f9f9f9), to(#e5e5e5)); /* Older webkit syntax */
 	background: -webkit-linear-gradient(#f9f9f9, #e5e5e5);
 	color: #373737;
+	font-family: Cambria;
+	font-size: 100pt;
 }
 #access ul li:hover > ul {
 	display: block;
@@ -2741,15 +2743,27 @@ p.comment-form-comment {
 	text-align: justify;
 }
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content {
-	font-size: 14px;
-	font-family: inherit;
+	font-size: 10.5pt;
+	font-family: Cambria;
 	font-weight: normal;
 	font-style: normal;
 	text-align: left;
 }
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content p img {
 	text-align: center;
-	font-size: 100pt;
+
+
+
+
+
+
+
+
+
+
+	font-size: 10
+.%;
+	font-size: 10.5pt;
 }
 img {
 	text-align: center;
