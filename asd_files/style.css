@@ -589,6 +589,8 @@ a:hover {
 #access li {
 	float: left;
 	position: relative;
+	font-family: Cambria;
+	font-size: 10.5pt;
 }
 #access a {
 	color: #eee;
