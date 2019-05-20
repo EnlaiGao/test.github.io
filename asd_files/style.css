@@ -2750,7 +2750,7 @@ p.comment-form-comment {
 	font-family: Cambria;
 	font-weight: normal;
 	font-style: normal;
-	text-align: left;
+	text-align: justify;
 }
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content p img {
 	text-align: center;
@@ -2773,4 +2773,7 @@ img {
 }
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content .MsoNormal {
 	font-family: Cambria;
+}
+.home.blog.one-column.content #page #main #primary #content #post-1 .entry-content .MsoNormal span {
+
 }
