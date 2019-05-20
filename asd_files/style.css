@@ -377,8 +377,9 @@ dd {
 	margin-bottom: 1.625em;
 }
 strong {
-	font-family: inherit;
+	font-family: Cambria;
 	font-weight: normal;
+	font-size: 10.5pt;
 }
 cite, em, i {
 	font-style: normal;
