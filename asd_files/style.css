@@ -2773,7 +2773,11 @@ img {
 }
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content .MsoNormal {
 	font-family: Cambria;
+	text-align: justify;
 }
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content .MsoNormal span {
 
+}
+br {
+	text-align: justify;
 }
