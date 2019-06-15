@@ -499,8 +499,8 @@ a:focus,
 a:active,
 a:hover {
 	text-decoration: underline;
-	font-size: 10.5%;
-	font-family: inherit;
+	font-size: 100%;
+	font-family: Cambria;
 }
 
 /* Assistive text */
@@ -2780,4 +2780,12 @@ img {
 }
 br {
 	text-align: justify;
+}
+.home.blog.one-column.content #page #main #primary #content #post-1 .entry-content em em em em em a {
+	font-family: Cambria;
+	font-size: 10.5pt;
+}
+.home.blog.one-column.content #page #main #primary #content #post-1 .entry-content em strong a {
+	font-family: Cambria;
+	font-size: 10.5pt;
 }
