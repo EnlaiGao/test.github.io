@@ -2297,6 +2297,7 @@ p.comment-form-comment {
 	color: #555;
 	font-weight: bold;
 	font-size: 100%;
+	font-family: inherit;
 }
 
 
@@ -2788,4 +2789,13 @@ br {
 .home.blog.one-column.content #page #main #primary #content #post-1 .entry-content em strong a {
 	font-family: Cambria;
 	font-size: 100%;
+}
+.home.blog.one-column.content #page #colophon #site-generator p {
+	font-family: Cambria;
+	font-size: 8pt;
+}
+.home.blog.one-column.content #page #colophon #site-generator p a {
+	font-family: Cambria;
+	font-size: 8pt;
+	font-weight: normal;
 }
